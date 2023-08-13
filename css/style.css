@@ -1,0 +1,29 @@
+.box{
+    margin: 20px;
+    text-align: center;
+    line-height: 100px;
+    height: 100px;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background: orange;
+}
+.box2{
+    width: 200px; 
+    height: 100px; 
+    background: greenyellow; 
+    font-size: 0;
+}
+.box3{
+    width: 100px; 
+    height: 100px; 
+    background: tomato;
+}
+.moveBox{
+    margin-top: 100px;
+    width: 100px;
+    height: 100px;
+    background: pink;
+}
