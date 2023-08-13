@@ -4,9 +4,12 @@ a{text-decoration: none; color:#000; text-indent: 12px; display: block; line-hei
 .sec{
     width: 100vw;
     height: 100vh;
+}
+.sec1{
     display: flex;
     justify-content: space-between
 }
+
 .title{
     position: absolute;
     z-index: 99;
