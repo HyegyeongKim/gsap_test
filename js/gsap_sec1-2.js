@@ -21,7 +21,7 @@ gsap.set(".box3", {
 
 
 //sec2: gsap으로 애니메이션 핸들링
-let tween = gsap.to(".moveBox", {
+var tween = gsap.to(".moveBox", {
     duration: 8,
     x: 400,
     width: 400,
