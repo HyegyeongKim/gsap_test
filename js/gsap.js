@@ -8,11 +8,11 @@ gsap.from(".box1", {
 
 gsap.fromTo(".box2", 
     {fontSize: 40},
-    {duration: 3, x: 300, fontSize: 16}
+    {duration: 3, x: 100, fontSize: 16}
 )
 
 gsap.set(".box3", {
-    x: 100,
+    y: 100,
     width: 200,
     backgroundColor: 'skyblue'
 })
