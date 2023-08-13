@@ -5,10 +5,6 @@ a{text-decoration: none; color:#000; text-indent: 12px; display: block; line-hei
     width: 100vw;
     height: 100vh;
 }
-.sec1{
-    display: flex;
-    justify-content: space-between
-}
 
 .title{
     position: absolute;
